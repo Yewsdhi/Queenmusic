@@ -54,7 +54,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/TeamProBots/Clonify")
+SOURCE = getenv("SOURCE", "https://github.com/Yewsdhi/Queenmusic")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/TeamProBots/Clonify",
@@ -72,9 +72,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ProBotts")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ProBotGc")
-CHAT = getenv("CHAT", "https://t.me/ProBotGc")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ll_DPZ_WORLDS_ll")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/queenbotgrup")
+CHAT = getenv("CHAT", "https://t.me/queenbotgrup")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
